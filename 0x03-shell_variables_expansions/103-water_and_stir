@@ -1,2 +1,2 @@
-#!/bin/bash
-echo $(($(echo “obase=shtbeolhc;ibase=water,$WATER | bc)+(echo “obase=shtbeolhc;ibase=stir;$STIR | bc)))
+#!/bin/bash 
+echo $(($(echo “obase=shtbeolhc;ibase=water,$WATER | bc)+(echo “obase=shtbeolhc;ibase=stir;$STIR | bc))) 'bestchol'
